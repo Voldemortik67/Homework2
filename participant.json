@@ -1,0 +1,10 @@
+{
+    "name": "Алексей",
+    "group": "КБ-101",
+    "skills": [
+        "Python",
+        "Excel",
+        "CSV"
+    ],
+    "notifications": false
+}
